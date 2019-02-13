@@ -29,7 +29,7 @@ Diketahui 3 buah bilangan Bil1, Bil2, Bil3 akan dicari nilai terbesar.
 11.Selesai
 
 Berikut dibawah ini Flowchart dari program tersebut
-2 2
+![52713263-6ae78300-2fc9-11e9-85eb-a741dfda685c](https://user-images.githubusercontent.com/46749109/52729673-35a05c80-2fec-11e9-8032-b64c9fb470c7.jpg)
 
 - Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
 
@@ -38,10 +38,6 @@ Berikut dibawah ini Flowchart dari program tersebut
 - Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
 
 - Kemudian Run
-
-Silahkan lihat contoh di bawah ini :
-
-1 1
 
 Berikut hasil screenshoot dari program tersebut :
 
@@ -55,3 +51,7 @@ Berikut hasil screenshoot dari program tersebut :
 ![lat23](https://user-images.githubusercontent.com/46749109/52729229-5ddb8b80-2feb-11e9-8631-4395aa352af0.JPG)
 
 TERIMA KASIH.
+
+Nama : Rafiudin S
+Nim  : 311810464
+Kelas: TI 18 B1
